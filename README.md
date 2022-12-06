@@ -1,3 +1,3 @@
-## Aprendiendo JavaScript & TypeScript con proyectos personales.
+## 🪺 Aprendiendo JavaScript & TypeScript con proyectos personales. 🌠
 ---
 
