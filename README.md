@@ -3,6 +3,7 @@
 ### 🌠 Desbloquearé los repositorios progresivamente para que sean públicos.
 ---
 ### Tecnologías utilizadas en mi aprendizaje:
+* **Git & GitHub**
 * **JavaScript & TypeScript**
 * **React**
 * **Node.js**
