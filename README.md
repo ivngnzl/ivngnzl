@@ -4,6 +4,7 @@
 ---
 ### Tecnologías utilizadas en mi aprendizaje:
 * **Git & GitHub**
+* **HTML & CSS**
 * **JavaScript & TypeScript**
 * **React**
 * **Node.js**
