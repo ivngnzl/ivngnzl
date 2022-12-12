@@ -7,6 +7,7 @@
 * **HTML & CSS**
 * **Bootstrap & TailwindCSS**
 * **JavaScript & TypeScript**
+* **Java & Kotlin**
 * **React**
 * **Node.js**
 * **Docker**
