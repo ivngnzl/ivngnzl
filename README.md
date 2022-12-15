@@ -2,7 +2,7 @@
 ### 🪺 Aprendiendo programación con proyectos personales. 
 ### 🌠 Desbloquearé los repositorios progresivamente para que sean públicos.
 ---
-### Tecnologías utilizadas en mi aprendizaje:
+### Tecnologías utilizadas:
 * **Git & GitHub**
 * **HTML & CSS**
 * **Bootstrap & TailwindCSS**
