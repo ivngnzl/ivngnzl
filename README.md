@@ -12,7 +12,6 @@
 * **Node.js**
 * **Docker**
 * **VSCode**
-* **PostMan**
 * **MongoDB**
 * **Firebase**
 
