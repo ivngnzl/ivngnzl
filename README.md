@@ -1,8 +1,8 @@
 ---
-### 🪺 Aprendiendo programación con proyectos personales. 
+### 🪺 Programando con proyectos personales desde 2022. 
 ### 🌠 Desbloquearé los repositorios progresivamente para que sean públicos.
 ---
-### Tecnologías utilizadas:
+### Tecnologías y lenguajes que estoy aprendiendo:
 * **Git & GitHub**
 * **HTML & CSS**
 * **Bootstrap & TailwindCSS**
