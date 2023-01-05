@@ -8,7 +8,7 @@
 * **Bootstrap & TailwindCSS**
 * **JavaScript & TypeScript**
 * **Kotlin**
-* **React**
+* **Astro / React**
 * **Node.js**
 * **Docker**
 * **VSCode**
