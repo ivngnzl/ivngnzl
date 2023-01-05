@@ -5,7 +5,7 @@
 ### Tecnologías y lenguajes que estoy aprendiendo:
 * **Git / GitHub**
 * **HTML / CSS**
-* **Bootstrap / TailwindCSS**
+* **Bootstrap / Tailwind**
 * **JavaScript / TypeScript**
 * **Kotlin**
 * **Astro / React**
