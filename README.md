@@ -3,15 +3,14 @@
 ### 🌠 Desbloquearé los repositorios progresivamente para que sean públicos.
 ---
 ### Tecnologías y lenguajes que estoy aprendiendo:
-* **Git & GitHub**
-* **HTML & CSS**
-* **Bootstrap & TailwindCSS**
-* **JavaScript & TypeScript**
+* **Git / GitHub**
+* **HTML / CSS**
+* **Bootstrap / TailwindCSS**
+* **JavaScript / TypeScript**
 * **Kotlin**
 * **Astro / React**
 * **Node.js**
 * **Docker**
 * **VSCode**
-* **MongoDB**
-* **Firebase**
+* **MongoDB / Firebase**
 
