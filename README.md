@@ -8,7 +8,7 @@
 * **Bootstrap / Tailwind**
 * **JavaScript / TypeScript**
 * **Kotlin**
-* **Astro / React**
+* **Astro / React / NextJS**
 * **Node.js**
 * **Docker**
 * **AWS / MongoDB / Firebase**
