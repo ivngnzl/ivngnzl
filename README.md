@@ -11,5 +11,5 @@
 * **Astro / React**
 * **Node.js**
 * **Docker**
-* **MongoDB / Firebase**
+* **AWS / MongoDB / Firebase**
 
