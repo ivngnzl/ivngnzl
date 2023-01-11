@@ -3,7 +3,7 @@ Programando proyectos personales desde 2022 🌠
 
 ---
 
-### 🔧Languages and Tools
+### 🔧 Languages and Tools
 * **Git / GitHub**
 * **Node.js**
 * **HTML / CSS**
