@@ -1,15 +1,19 @@
-### 🪺 Programando con proyectos personales desde 2022. 
-### 🌠 Desbloquearé los repositorios progresivamente para que sean públicos.
+### 👤 About me
+Programando proyectos personales desde 2022 🌠
+
 ---
 
-### Tecnologías y lenguajes que estoy aprendiendo:
+### 🔧Languages and Tools
 * **Git / GitHub**
+* **Node.js**
 * **HTML / CSS**
 * **Bootstrap / Tailwind**
 * **JavaScript / TypeScript**
 * **Kotlin**
 * **Astro / React / NextJS**
-* **Node.js**
 * **Docker**
 * **AWS / MongoDB / Firebase / MySQL**
 
+---
+
+###### 🔓 Desbloquearé algunos repositorios progresivamente. 🎓
