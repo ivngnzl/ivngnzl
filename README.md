@@ -12,8 +12,8 @@
 * **Kotlin**
 * **Astro / React / NextJS**
 * **Docker**
-* **AWS / MongoDB / Firebase / MySQL**
+* **AWS / Firebase**
+* **MySQL / MongoDB**
 
 ---
-🌠 Programando proyectos personales desde 2022.<p>
-🔓 Desbloquearé algunos repositorios progresivamente. 🎓
+🌠 Programando proyectos personales desde 2022 🔓 Desbloquearé repositorios progresivamente 🎓
