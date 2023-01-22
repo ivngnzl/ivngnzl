@@ -17,4 +17,4 @@
 
 ---
 🌠 Programando proyectos personales desde 2022<p>
-🔓 Desbloquearé repositorios progresivamente 🎓
+🔓 Desbloquearé repositorios progresivamente 😉🎓
