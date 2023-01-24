@@ -1,6 +1,5 @@
 ### 👤 About me
-![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=30&duration=4400&pause=1000&color=F7E724&background=000000&center=true&vCenter=true&width=700&height=80&lines=%3Cigs-code+to%3D%22develop%22%3E;Hi!+%F0%9F%91%8B%2C++I'm+Iv%C3%A1n+Gonz%C3%A1lez;...a+humble+programming+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%3C%2Figs-code%3E)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=F7BA1A&width=500&height=40&lines=Hi!%F0%9F%91%8B+I'm+Iv%C3%A1n+Gonz%C3%A1lez+)](https://git.io/typing-svg)
 ---
 
 ### 🔧 Languages and Tools
