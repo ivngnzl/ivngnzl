@@ -4,9 +4,12 @@
 
 ![Typing SVG](https://img.shields.io/badge/ivngnzl-codewriter-success?style=for-the-badge&logo=appveyor&color=blueviolet)
 
-<img src="https://user-images.githubusercontent.com/65131573/214680236-43482af8-50eb-417c-b1cd-df03d76fde85.svg" width="25" height="25">
-<img src="https://user-images.githubusercontent.com/65131573/214681286-0be26be6-efd7-4535-a72e-a2f5dcb41865.svg" width="25" height="25">
-<img src="https://user-images.githubusercontent.com/65131573/214682594-8fa205fc-4593-441a-acea-e36cf90723e8.svg" width="25" height="25">
+
+[![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=Git&logoColor=#F05032)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=#181717)]()
+</br>
+[![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=Node.js&logoColor=#339933)]()
+
 <img src="https://user-images.githubusercontent.com/65131573/214683487-501c02aa-e6c6-432e-a8b0-881a1be170a7.svg" width="25" height="25">
 <img src="https://user-images.githubusercontent.com/65131573/214684063-64fd0717-6753-4a3f-875f-08018da341df.svg" width="25" height="25">
 <img src="https://user-images.githubusercontent.com/65131573/214684281-947df4e7-94f7-4fdb-b46f-1e95c5bc935a.svg" width="25" height="25">
