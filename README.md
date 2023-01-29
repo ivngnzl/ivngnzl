@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=F7BA1A&width=500&height=40&lines=Hi!%F0%9F%91%8B+I'm+Iv%C3%A1n+Gonz%C3%A1lez+)
----
 ![Typing SVG](https://img.shields.io/badge/ivngnzl-codewriter-success?style=for-the-badge&logo=appveyor&color=blueviolet)
 
 [![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=Git&logoColor=#F05032)](https://git-scm.com/)
