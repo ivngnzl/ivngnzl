@@ -1,4 +1,4 @@
-![Typing SVG](https://img.shields.io/badge/ivngnzl-codewriter-success?style=for-the-badge&logo=appveyor&color=green)
+![Typing SVG](https://img.shields.io/badge/ivngnzl-codewriter-success?style=for-the-badge&logo=appveyor&color=blue)
 
 [![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=Git&logoColor=#F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=#181717)](https://github.com/)
@@ -13,6 +13,8 @@
 </br>
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)](https://getbootstrap.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=TailwindCSS&logoColor=#1572B6)](https://tailwindcss.com/)
+</br>
+[![Sass](https://img.shields.io/badge/Sass-181717?style=for-the-badge&logo=Sass&logoColor=#CC6699)](https://sass-lang.com/)
 </br>
 [![Kotlin](https://img.shields.io/badge/Kotlin-181717?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF)](https://kotlinlang.org/)
 [![Go](https://img.shields.io/badge/Go-181717?style=for-the-badge&logo=Go&logoColor=#00ADD8)](https://go.dev/)
