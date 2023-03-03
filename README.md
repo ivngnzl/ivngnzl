@@ -1,4 +1,4 @@
-![Typing SVG](https://img.shields.io/badge/ivngnzl-codewriter-success?style=for-the-badge&logo=appveyor&color=blue)
+![Typing SVG](https://img.shields.io/badge/ivngnzl-codecrafter-success?style=for-the-badge&logo=appveyor&color=blue)
 ---
 [![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=Git&logoColor=#F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=#181717)](https://github.com/)
