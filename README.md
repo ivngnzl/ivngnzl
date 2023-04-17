@@ -14,6 +14,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)](https://getbootstrap.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=TailwindCSS&logoColor=#1572B6)](https://tailwindcss.com/)
 </br>
+[![Flutter](https://img.shields.io/badge/Flutter-181717?style=for-the-badge&logo=Flutter&logoColor=#02569B)](https://flutter.dev/))
 [![Kotlin](https://img.shields.io/badge/Kotlin-181717?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF)](https://kotlinlang.org/)
 [![Go](https://img.shields.io/badge/Go-181717?style=for-the-badge&logo=Go&logoColor=#00ADD8)](https://go.dev/)
 </br>
