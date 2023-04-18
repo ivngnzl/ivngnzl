@@ -15,8 +15,8 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)](https://getbootstrap.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=TailwindCSS&logoColor=#1572B6)](https://tailwindcss.com/)
 </br>
-[![Dart](https://img.shields.io/badge/Dart-181717?style=for-the-badge&logo=Dart&logoColor=#0175C2)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-181717?style=for-the-badge&logo=Flutter&logoColor=#02569B)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter)](https://flutter.dev/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-181717?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF)](https://kotlinlang.org/)
 </br>
 [![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=React&logoColor=#61DAFB)](https://es.reactjs.org/)
