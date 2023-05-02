@@ -1,6 +1,5 @@
 ![Typing SVG](https://img.shields.io/badge/ivngnzl-codecrafter-success?style=for-the-badge&logo=appveyor&color=blue)
 ---
-</br>
 [![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=Node.js&logoColor=#339933)](https://nodejs.org/)
 [![Go](https://img.shields.io/badge/Go-181717?style=for-the-badge&logo=Go&logoColor=#00ADD8)](https://go.dev/)
 </br>
