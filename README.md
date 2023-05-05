@@ -3,14 +3,11 @@
 [![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=Node.js&logoColor=#339933)](https://nodejs.org/)
 [![Go](https://img.shields.io/badge/Go-181717?style=for-the-badge&logo=Go&logoColor=#00ADD8)](https://go.dev/)
 </br>
-[![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=HTML5&logoColor=#E34F26)]()
 [![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=CSS3&logoColor=#1572B6)]()
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=TailwindCSS&logoColor=#1572B6)](https://tailwindcss.com/)
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=TypeScript&logoColor=#3178C6)]()
-</br>
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=TailwindCSS&logoColor=#1572B6)](https://tailwindcss.com/)
 </br>
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter)](https://flutter.dev/)
