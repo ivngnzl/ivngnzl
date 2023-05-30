@@ -18,9 +18,7 @@
 [![Astro](https://img.shields.io/badge/Astro-181717?style=for-the-badge&logo=Astro&logoColor=#FF5D01)](https://astro.build/)
 </br>
 [![Docker](https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=Docker&logoColor=#2496ED)](https://www.docker.com/)
-[![AmazonAWS](https://img.shields.io/badge/AWS-181717?style=for-the-badge&logo=AmazonAWS&logoColor=#FFFFFF)](https://aws.amazon.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-181717?style=for-the-badge&logo=Firebase&logoColor=#FFCA28)](https://firebase.google.com/)
-</br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=MongoDB&logoColor=#47A248)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=MySQL&logoColor=#4479A1)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1)](https://www.postgresql.org/)
