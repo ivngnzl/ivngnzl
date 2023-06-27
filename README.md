@@ -24,3 +24,5 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=MongoDB&logoColor=#47A248)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=MySQL&logoColor=#4479A1)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1)](https://www.postgresql.org/)
+
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=#C21325)](https://www.jestjs.io/es-ES/)
