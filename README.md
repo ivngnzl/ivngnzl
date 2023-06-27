@@ -2,6 +2,7 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=Node.js&logoColor=#339933)](https://nodejs.org/)
 [![Go](https://img.shields.io/badge/Go-181717?style=for-the-badge&logo=Go&logoColor=#00ADD8)](https://go.dev/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=#00ADD8)](https://nestjs.com/)
 
 [![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=CSS3&logoColor=#1572B6)]()
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=TailwindCSS&logoColor=#1572B6)](https://tailwindcss.com/)
