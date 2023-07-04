@@ -1,28 +1,30 @@
-![Typing SVG](https://img.shields.io/badge/ivngnzl-codecrafter-success?style=for-the-badge&logo=appveyor&color=blue)
+![Typing SVG](https://img.shields.io/badge/Iván-González-success?style=for-the-badge&logo=appveyor&color=blue)
 
-[![Node.js](https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=Node.js&logoColor=#339933)](https://nodejs.org/)
-[![Go](https://img.shields.io/badge/Go-181717?style=for-the-badge&logo=Go&logoColor=#00ADD8)](https://go.dev/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=#00ADD8)](https://nestjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=#339933)](https://nodejs.org/)
+[![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=Go&logoColor=#00ADD8)](https://go.dev/)
+[![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=NestJS&logoColor=#FF5D01)](https://nestjs.com/)
 
-[![CSS3](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=CSS3&logoColor=#1572B6)]()
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-181717?style=for-the-badge&logo=TailwindCSS&logoColor=#1572B6)](https://tailwindcss.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=#1572B6)]()
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=TailwindCSS&logoColor=#1572B6)](https://tailwindcss.com/)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=TypeScript&logoColor=#3178C6)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=#3178C6)]()
 
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter)](https://flutter.dev/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-181717?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF)](https://kotlinlang.org/)
+[![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=Dart)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter)](https://flutter.dev/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF)](https://kotlinlang.org/)
 
-[![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=React&logoColor=#61DAFB)](https://es.reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-181717?style=for-the-badge&logo=Next.js&logoColor=#FFFFFF)](https://nextjs.org/)
-[![Astro](https://img.shields.io/badge/Astro-181717?style=for-the-badge&logo=Astro&logoColor=#FF5D01)](https://astro.build/)
+[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB)](https://es.reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=#FFFFFF)](https://nextjs.org/)
+[![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=Astro&logoColor=#FF5D01)](https://astro.build/)
 
-[![Docker](https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=Docker&logoColor=#2496ED)](https://www.docker.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-181717?style=for-the-badge&logo=Firebase&logoColor=#FFCA28)](https://firebase.google.com/)
+[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=#2496ED)](https://www.docker.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=#FFCA28)](https://firebase.google.com/)
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=MongoDB&logoColor=#47A248)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=MySQL&logoColor=#4479A1)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=#47A248)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=#4479A1)](https://www.mysql.com/)
 
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=#C21325)](https://www.jestjs.io/es-ES/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1)](https://www.postgresql.org/)
+
+[![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=Jest&logoColor=#C21325)](https://www.jestjs.io/es-ES/)
+[![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=Cypress&logoColor=#17202C)](https://www.cypress.io/)
