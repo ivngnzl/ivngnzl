@@ -25,6 +25,3 @@
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=#4479A1)](https://www.mysql.com/)
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1)](https://www.postgresql.org/)
-
-[![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=Jest&logoColor=#C21325)](https://www.jestjs.io/es-ES/)
-[![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=Cypress&logoColor=#17202C)](https://www.cypress.io/)
