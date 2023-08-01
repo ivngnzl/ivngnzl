@@ -1,11 +1,11 @@
 ![Typing SVG](https://img.shields.io/badge/Iván-González-success?style=for-the-badge&logo=appveyor&color=blue)
 
+[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=#1572B6)]()
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=TailwindCSS&logoColor=#1572B6)](https://tailwindcss.com/)
+
 [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=#339933)](https://nodejs.org/)
 [![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=Go&logoColor=#00ADD8)](https://go.dev/)
 [![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=NestJS&logoColor=#FF5D01)](https://nestjs.com/)
-
-[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=#1572B6)]()
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=TailwindCSS&logoColor=#1572B6)](https://tailwindcss.com/)
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=#3178C6)]()
