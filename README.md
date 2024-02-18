@@ -11,7 +11,6 @@
 
 [![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=Go&logoColor=#00ADD8)](https://go.dev/)
 [![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=NestJS&logoColor=#E0234E)](https://nestjs.com/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=GraphQL&logoColor=#E10098)](https://graphql.org/)
 
 [![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=Dart)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter)](https://flutter.dev/)
