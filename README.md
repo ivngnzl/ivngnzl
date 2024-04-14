@@ -1,4 +1,4 @@
-![Typing SVG](https://img.shields.io/badge/Iván-González-success?style=for-the-badge&logo=appveyor&color=blue)
+![Typing SVG](https://img.shields.io/badge/Iván-González-success?style=for-the-badge&logo=appveyor&color=green)
 
 [![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=#1572B6)]()
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=TailwindCSS&logoColor=#1572B6)](https://tailwindcss.com/)
