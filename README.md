@@ -14,7 +14,6 @@
 
 [![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=Dart)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter)](https://flutter.dev/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF)](https://kotlinlang.org/)
 
 [![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB)](https://es.reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=#FFFFFF)](https://nextjs.org/)
