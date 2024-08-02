@@ -6,9 +6,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=NestJS)](https://nestjs.com/)
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript)](https://www.typescriptlang.org/)
-
 [![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=Dart)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter)](https://flutter.dev/)
 
@@ -23,3 +20,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL)](https://www.postgresql.org/)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript)](https://www.typescriptlang.org/)
