@@ -20,6 +20,3 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL)](https://www.postgresql.org/)
-
-[![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=Dart)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter)](https://flutter.dev/)
