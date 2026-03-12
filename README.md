@@ -18,5 +18,4 @@
 [![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=Supabase)](https://supabase.com/)
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL)](https://www.postgresql.org/)
