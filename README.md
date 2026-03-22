@@ -1,4 +1,4 @@
-![Typing SVG](https://img.shields.io/badge/Iván-González-success?style=for-the-badge&logo=appveyor&color=gray)
+![Typing SVG](https://img.shields.io/badge/-ivngnzl-success?style=for-the-badge&logo=appveyor&color=gray)
 
 [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=NestJS)](https://nestjs.com/)
